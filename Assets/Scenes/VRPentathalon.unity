@@ -14354,7 +14354,7 @@ GameObject:
   - component: {fileID: 1335018320}
   - component: {fileID: 1335018319}
   - component: {fileID: 1335018321}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: XR Origin (XR Rig)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14542,7 +14542,7 @@ CharacterController:
   m_Enabled: 1
   serializedVersion: 3
   m_Height: 1.3
-  m_Radius: 0.5
+  m_Radius: 0.25
   m_SlopeLimit: 45
   m_StepOffset: 0.3
   m_SkinWidth: 0.08
@@ -14901,7 +14901,7 @@ GameObject:
   - component: {fileID: 1391406580}
   - component: {fileID: 1391406579}
   - component: {fileID: 1391406578}
-  m_Layer: 7
+  m_Layer: 9
   m_Name: Basketball Ball (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15130,7 +15130,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_ThrowVelocityScale: 1.5
+  m_ThrowVelocityScale: 2.5
   m_ThrowAngularVelocityScale: 1
   m_ForceGravityOnDetach: 0
   m_RetainTransformParent: 1
@@ -15185,7 +15185,7 @@ SphereCollider:
   m_Enabled: 1
   serializedVersion: 3
   m_Radius: 0.12
-  m_Center: {x: -0.000000074505806, y: 0, z: -0.000000055879354}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1410257165
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16730,7 +16730,7 @@ GameObject:
   - component: {fileID: 1496219233}
   - component: {fileID: 1496219232}
   - component: {fileID: 1496219231}
-  m_Layer: 7
+  m_Layer: 9
   m_Name: Basketball Ball (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16959,7 +16959,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_ThrowVelocityScale: 1.5
+  m_ThrowVelocityScale: 2.5
   m_ThrowAngularVelocityScale: 1
   m_ForceGravityOnDetach: 0
   m_RetainTransformParent: 1
@@ -17014,7 +17014,7 @@ SphereCollider:
   m_Enabled: 1
   serializedVersion: 3
   m_Radius: 0.12
-  m_Center: {x: -0.000000074505806, y: 0, z: -0.000000055879354}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1507018829
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17982,7 +17982,7 @@ GameObject:
   - component: {fileID: 1692993073}
   - component: {fileID: 1692993072}
   - component: {fileID: 1692993071}
-  m_Layer: 7
+  m_Layer: 9
   m_Name: Basketball Ball (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18211,7 +18211,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_ThrowVelocityScale: 1.5
+  m_ThrowVelocityScale: 2.5
   m_ThrowAngularVelocityScale: 1
   m_ForceGravityOnDetach: 0
   m_RetainTransformParent: 1
@@ -18266,7 +18266,7 @@ SphereCollider:
   m_Enabled: 1
   serializedVersion: 3
   m_Radius: 0.12
-  m_Center: {x: -0.000000074505806, y: 0, z: -0.000000055879354}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1696085315
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24379,7 +24379,7 @@ GameObject:
   - component: {fileID: 5016665178314319872}
   - component: {fileID: 5016665178314319871}
   - component: {fileID: 5016665178314319870}
-  m_Layer: 7
+  m_Layer: 9
   m_Name: Basketball Ball
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24608,7 +24608,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_ThrowVelocityScale: 1.5
+  m_ThrowVelocityScale: 2.5
   m_ThrowAngularVelocityScale: 1
   m_ForceGravityOnDetach: 0
   m_RetainTransformParent: 1
@@ -24663,7 +24663,7 @@ SphereCollider:
   m_Enabled: 1
   serializedVersion: 3
   m_Radius: 0.12
-  m_Center: {x: -0.000000074505806, y: 0, z: -0.000000055879354}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &5022186743573022852
 MonoBehaviour:
   m_ObjectHideFlags: 0
