@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 07c37815a3fa6844fa26975514e6a07c
+guid: f0ce8b806797ec24c87b5ca18b4d75b6
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -7,7 +7,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Basketball_Ball
+    4300000: Old_Soccer_Ball
     9500000: //RootNode
   externalObjects:
   - first:
