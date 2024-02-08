@@ -7,6 +7,7 @@ public class RocketBehavior : MonoBehaviour
     [SerializeField] float _speed = 5f;
     [SerializeField] float _timer = 2f;
     [SerializeField] GameObject _explosionPrefab;
+    [SerializeField] private GameObject _staticRocket;
 
     // Start is called before the first frame update
     void Start()
