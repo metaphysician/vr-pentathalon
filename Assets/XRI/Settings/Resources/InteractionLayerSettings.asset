@@ -39,9 +39,9 @@ MonoBehaviour:
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - gaze
+  - food
+  - key
   - hat
   - Raycast
   - Teleport
