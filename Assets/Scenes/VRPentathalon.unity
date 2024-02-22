@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 242361}
   - component: {fileID: 242363}
   - component: {fileID: 242362}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -338,7 +338,7 @@ GameObject:
   - component: {fileID: 7242446}
   - component: {fileID: 7242448}
   - component: {fileID: 7242447}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -805,7 +805,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 51164326}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -848,7 +848,7 @@ GameObject:
   - component: {fileID: 95729420}
   - component: {fileID: 95729422}
   - component: {fileID: 95729421}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1018,7 +1018,7 @@ GameObject:
   m_Component:
   - component: {fileID: 100089767}
   - component: {fileID: 100089768}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: LiftBucket
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2616,7 +2616,7 @@ GameObject:
   - component: {fileID: 211508726}
   - component: {fileID: 211508728}
   - component: {fileID: 211508727}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Back
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2925,7 +2925,7 @@ GameObject:
   - component: {fileID: 227507346}
   - component: {fileID: 227507348}
   - component: {fileID: 227507347}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Fwd
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4840,7 +4840,7 @@ GameObject:
   - component: {fileID: 284772063}
   - component: {fileID: 284772065}
   - component: {fileID: 284772064}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: ArmControls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5239,7 +5239,7 @@ GameObject:
   - component: {fileID: 294398871}
   - component: {fileID: 294398873}
   - component: {fileID: 294398872}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: TrackControls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5506,7 +5506,7 @@ GameObject:
   - component: {fileID: 297077358}
   - component: {fileID: 297077360}
   - component: {fileID: 297077359}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: ArmControls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5743,7 +5743,7 @@ GameObject:
   - component: {fileID: 300198482}
   - component: {fileID: 300198484}
   - component: {fileID: 300198483}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6238,7 +6238,7 @@ GameObject:
   - component: {fileID: 327810802}
   - component: {fileID: 327810804}
   - component: {fileID: 327810803}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6314,7 +6314,7 @@ GameObject:
   - component: {fileID: 328381005}
   - component: {fileID: 328381004}
   - component: {fileID: 328381003}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: ClosePanelButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6446,7 +6446,7 @@ GameObject:
   - component: {fileID: 337079748}
   - component: {fileID: 337079750}
   - component: {fileID: 337079749}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: TrackControls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6728,7 +6728,7 @@ GameObject:
   - component: {fileID: 357658781}
   - component: {fileID: 357658783}
   - component: {fileID: 357658782}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7151,7 +7151,7 @@ SortingGroup:
   m_Enabled: 1
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 5
+  m_SortingOrder: 30005
   m_SortAtRoot: 0
 --- !u!114 &390781805
 MonoBehaviour:
@@ -7504,7 +7504,7 @@ MonoBehaviour:
   m_ControlPointDistance: 10
   m_ControlPointHeight: 5
   m_SampleFrequency: 20
-  m_HitDetectionType: 0
+  m_HitDetectionType: 2
   m_SphereCastRadius: 0.1
   m_ConeCastAngle: 6
   m_RaycastMask:
@@ -8178,7 +8178,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 461383246}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9701,7 +9701,7 @@ GameObject:
   - component: {fileID: 540320383}
   - component: {fileID: 540320385}
   - component: {fileID: 540320384}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: LeverArmUp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10238,7 +10238,7 @@ SortingGroup:
   m_Enabled: 1
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 5
+  m_SortingOrder: 30005
   m_SortAtRoot: 0
 --- !u!114 &554598351
 MonoBehaviour:
@@ -10811,7 +10811,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 580510958}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Holder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11094,7 +11094,7 @@ GameObject:
   - component: {fileID: 597706529}
   - component: {fileID: 597706531}
   - component: {fileID: 597706530}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11664,7 +11664,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 642519483}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Handle Slide Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12320,7 +12320,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 649112955}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14001,7 +14001,7 @@ GameObject:
   - component: {fileID: 703739198}
   - component: {fileID: 703739200}
   - component: {fileID: 703739201}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: ExcavatorControls_UI_2D
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14136,7 +14136,7 @@ MonoBehaviour:
   m_MaxDistance: 1000
   m_BlockingMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 4294967295
 --- !u!114 &703739201
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14149,7 +14149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_IgnoreReversedGraphics: 1
+  m_IgnoreReversedGraphics: 0
   m_BlockingObjects: 0
   m_BlockingMask:
     serializedVersion: 2
@@ -14629,7 +14629,7 @@ GameObject:
   - component: {fileID: 739250409}
   - component: {fileID: 739250411}
   - component: {fileID: 739250410}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: LTurn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15033,7 +15033,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 792721706}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15464,7 +15464,7 @@ GameObject:
   - component: {fileID: 900292975}
   - component: {fileID: 900292977}
   - component: {fileID: 900292976}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15539,7 +15539,7 @@ GameObject:
   - component: {fileID: 902723067}
   - component: {fileID: 902723069}
   - component: {fileID: 902723068}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15614,7 +15614,7 @@ GameObject:
   - component: {fileID: 918585951}
   - component: {fileID: 918585953}
   - component: {fileID: 918585952}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: LiftBucket
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15863,7 +15863,7 @@ GameObject:
   - component: {fileID: 940003456}
   - component: {fileID: 940003458}
   - component: {fileID: 940003457}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17973,7 +17973,7 @@ GameObject:
   - component: {fileID: 1102878002}
   - component: {fileID: 1102878004}
   - component: {fileID: 1102878003}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19976,7 +19976,7 @@ GameObject:
   - component: {fileID: 1238562988}
   - component: {fileID: 1238562990}
   - component: {fileID: 1238562989}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20075,7 +20075,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1257486384}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Handle Slide Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20492,7 +20492,7 @@ GameObject:
   - component: {fileID: 1267971205}
   - component: {fileID: 1267971207}
   - component: {fileID: 1267971206}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: LeverArmDown
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20899,7 +20899,7 @@ GameObject:
   - component: {fileID: 1297073068}
   - component: {fileID: 1297073070}
   - component: {fileID: 1297073069}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21711,7 +21711,7 @@ GameObject:
   - component: {fileID: 1344517374}
   - component: {fileID: 1344517376}
   - component: {fileID: 1344517375}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22007,7 +22007,7 @@ GameObject:
   - component: {fileID: 1376966412}
   - component: {fileID: 1376966414}
   - component: {fileID: 1376966413}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22448,7 +22448,7 @@ GameObject:
   - component: {fileID: 1391446004}
   - component: {fileID: 1391446006}
   - component: {fileID: 1391446005}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23940,7 +23940,7 @@ GameObject:
   - component: {fileID: 1445013885}
   - component: {fileID: 1445013887}
   - component: {fileID: 1445013886}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24503,7 +24503,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1466377730}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Handle Slide Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24539,7 +24539,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1466421658}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Handle Slide Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25380,7 +25380,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1498577675}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Holder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25609,7 +25609,7 @@ GameObject:
   - component: {fileID: 1526394743}
   - component: {fileID: 1526394745}
   - component: {fileID: 1526394744}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Down
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25780,7 +25780,7 @@ GameObject:
   - component: {fileID: 1530824724}
   - component: {fileID: 1530824726}
   - component: {fileID: 1530824725}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26085,7 +26085,7 @@ GameObject:
   - component: {fileID: 1546620412}
   - component: {fileID: 1546620414}
   - component: {fileID: 1546620413}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: RTurn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26258,7 +26258,7 @@ GameObject:
   - component: {fileID: 1562898787}
   - component: {fileID: 1562898789}
   - component: {fileID: 1562898788}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26854,7 +26854,7 @@ GameObject:
   - component: {fileID: 1649227171}
   - component: {fileID: 1649227173}
   - component: {fileID: 1649227172}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: RotateCab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27025,7 +27025,7 @@ GameObject:
   - component: {fileID: 1653276408}
   - component: {fileID: 1653276410}
   - component: {fileID: 1653276409}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: RotateCab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28057,7 +28057,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1697071920}
   - component: {fileID: 1697071921}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: RotateCab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28158,7 +28158,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1701323996}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Handle Slide Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28268,7 +28268,7 @@ GameObject:
   - component: {fileID: 1726860030}
   - component: {fileID: 1726860032}
   - component: {fileID: 1726860033}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: ExcavatorControls_UI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28359,7 +28359,7 @@ MonoBehaviour:
   m_MaxDistance: 1000
   m_BlockingMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 4294967295
 --- !u!114 &1726860033
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28372,7 +28372,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_IgnoreReversedGraphics: 1
+  m_IgnoreReversedGraphics: 0
   m_BlockingObjects: 0
   m_BlockingMask:
     serializedVersion: 2
@@ -28852,7 +28852,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1777098817}
   - component: {fileID: 1777098818}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: TrackFwd-Back
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30637,7 +30637,7 @@ GameObject:
   - component: {fileID: 1922656618}
   - component: {fileID: 1922656617}
   - component: {fileID: 1922656616}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: OpenPanelButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32275,7 +32275,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2043496674}
   - component: {fileID: 2043496675}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: ArmControls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32536,7 +32536,7 @@ GameObject:
   - component: {fileID: 2048582024}
   - component: {fileID: 2048582026}
   - component: {fileID: 2048582025}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: BucketUp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32737,7 +32737,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2070416154}
   - component: {fileID: 2070416155}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: TrackRotate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33707,7 +33707,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2129545083}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33745,7 +33745,7 @@ GameObject:
   - component: {fileID: 2139162062}
   - component: {fileID: 2139162064}
   - component: {fileID: 2139162063}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: LiftBucket
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35588,7 +35588,7 @@ Transform:
   m_GameObject: {fileID: 7313654229252103064}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -49.103, y: 0, z: -44.583}
+  m_LocalPosition: {x: 9.77, y: 0, z: -51.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
